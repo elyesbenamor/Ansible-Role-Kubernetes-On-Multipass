@@ -6,7 +6,7 @@ An Ansible Role that installs [Kubernetes](https://kubernetes.io) on Linux.
 
 ## Requirements
 
-Requires Docker; recommended role for Docker installation: `gelyesbenamor.docker`.
+Requires Docker; recommended role for Docker installation: `elyesbenamor.docker`.
 
 ## Role Variables
 
